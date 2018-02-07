@@ -11,7 +11,8 @@ git log
  - вниз = Enter
  - выйти = q
  
- git config --global alias.tree "log --oneline --decorate --all --graph"
- git tree
+git config --global alias.tree "log --oneline --decorate --all --graph"
+git tree
 
- git diff
+git diff
+git checkout <commit_hash>
