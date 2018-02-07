@@ -7,4 +7,9 @@ git config --global user.email "mike@site.com"
 git add <file>
 git commit -m "<message>"
 
-git log
+git log 
+ - вниз = Enter
+ - выйти = q
+ 
+ git config --global alias.tree "log --oneline --decorate --all --graph"
+ git tree
