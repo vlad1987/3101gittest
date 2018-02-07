@@ -18,3 +18,8 @@ git diff
 git checkout <commit_hash>
 
 git branch
+
+если вы видите редактор текста для комиита, то
+ - ctrl+x  (^x) = exit
+ - y
+ - enter
