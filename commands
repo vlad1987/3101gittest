@@ -23,3 +23,8 @@ git branch
  - ctrl+x  (^x) = exit
  - y
  - enter
+ 
+ git remote -v
+ git remote add origin https:/....
+ 
+ git push
