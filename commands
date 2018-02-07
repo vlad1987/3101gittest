@@ -13,3 +13,5 @@ git log
  
  git config --global alias.tree "log --oneline --decorate --all --graph"
  git tree
+
+ git diff
