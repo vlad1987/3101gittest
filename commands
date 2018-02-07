@@ -1,0 +1,10 @@
+git init
+git status
+
+git config --global user.name "Mike Anderson"
+git config --global user.email "mike@site.com"
+
+git add <file>
+git commit -m "<message>"
+
+git log
