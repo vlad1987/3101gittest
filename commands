@@ -16,3 +16,5 @@ git tree
 
 git diff
 git checkout <commit_hash>
+
+git branch
