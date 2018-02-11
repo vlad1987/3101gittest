@@ -28,3 +28,6 @@ git branch
  git remote add origin https:/....
  
  git push
+ 
+.gitignore
+git merge
